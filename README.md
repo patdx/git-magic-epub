@@ -1,5 +1,4 @@
-git-magic-epub
-==============
+# git-magic-epub
 
 I wanted to read the Git Magic book in Google Books, so I tried to figure how to turn it into a nice epub file.
 
@@ -7,13 +6,11 @@ I converted the [single html file version](http://www-cs-students.stanford.edu/~
 
 After conversion, I edited the file in [Sigil EPUB Editor](https://code.google.com/p/sigil/), in order to segment the chapters, to clean the table of contents and add the metadata. It should work well in any epub reader (though I have only tried Google Books). I made my own minimalistic cover too, but you could easily change this if you want.
 
-Download
----------
+## Download
 
-Download the [gitmagic](/gitmagic.epub) file above.
+Download the gitmagic.epub file above, or [**click here**](https://github.com/thepdm/git-magic-epub/raw/master/gitmagic.epub).
 
-Sources
----------
+## Sources
 
 Original files can be found here:
 
